@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="background_color">#FFFFFF</color>
+    <color name="category_det">#fff</color>
+    <color name="compet">#FF000000</color>
+    <color name="colortext">#32357a</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blues">#5784BA</color>
+
+    <color name="dark_background">#FF000000</color> <!-- Fond noir -->
+    <color name="dark_text">#FFFFFFFF</color>
+    <!--  #B9B9C6 -->
+
+    <color name="blue">#32357a</color>
+    <color name="grey">#9AC8EB</color>
+    <color name="light_blue">#FFBB86FC</color>
+    <color name="light_grey">#EBEAEA</color>
+    <color name="pink">#F4CFDF</color>
+    <color name="gray">#DCDADA</color>
+    <color name="gray2">#8B8B9C</color>
+<!--#EBEAEA-->
+    <!-- added colors -->
+
+    <color name="gray3">#F6F5F5</color>
+    <color name="puple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="green">#1B5E20</color>
+    <color name="green_dark">#003300</color>
+    <color name="green_light">#A5D6A7</color>
+    <color name="blue2">#0288D1</color>
+    <color name="blue_dark">#005B9F</color>
+    <color name="blue_light">#81D4FA</color>
+    <color name="transp">#00000000</color>
+    <color name="soft_blue">#A3C9E6</color>
+    <!--  Bleu pâle  -->
+    <color name="rose_light">#F1A7C4</color>
+    <!--  Rose doux  -->
+    <color name="grey_light">#D3D3D3</color>
+
+    <color name="gray_">#888</color>
+    <color name="blue_">#0000FF</color>
+</resources>
